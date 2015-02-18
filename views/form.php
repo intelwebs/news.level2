@@ -8,3 +8,5 @@
     <textarea id="content" name="content"></textarea>
     <input type="submit" value="Добавить новость">
 </form>
+
+<p><a href="/">вернуться к списку новостей</a></p>
